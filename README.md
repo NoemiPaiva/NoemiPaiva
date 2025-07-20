@@ -1,4 +1,4 @@
-<h1 align="center">👩‍🏫 Olá, eu sou a Prof.ª Noemi Paiva!</h1>
+<h1 align="center">👩‍🏫 Olá, eu sou a Noemi!</h1>
 
 <p align="center">
   💻 Professora de Desenvolvimento de Sistemas <br/>
